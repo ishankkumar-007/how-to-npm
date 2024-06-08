@@ -15,5 +15,8 @@
     "url": "https://github.com/ishankkumar-007/how-to-npm/issues"
   },
   "homepage": "https://github.com/ishankkumar-007/how-to-npm#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  }
 }
